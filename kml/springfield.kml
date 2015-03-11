@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Springfield Layer</name>
+		<Placemark>
+			<styleUrl>#poly-000000-1-76</styleUrl>
+			<name>Springfield Area
+</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-77.2108841,38.7938311,0.0 -77.2067642,38.7764358,0.0 -77.1738052,38.7650596,0.0 -77.1489143,38.78045049999999,0.0 -77.1623039,38.795169,0.0 -77.1944046,38.8108209,0.0 -77.2108841,38.7938311,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Style id='poly-000000-1-76'>
+			<LineStyle>
+				<color>ff000000</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C000000</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+	</Document>
+</kml>

@@ -1,0 +1,23 @@
+Target 	6600 Springfield Mall	Springfield	VA	22150
+Target	10301 New Guinea Road	Fairfax	VA	22032
+Target	2905 District Ave S	Fairfax	VA	22031
+Target	5115 Leesburg Pike	Falls Church	VA	22041
+Target	6100 Arlington Blvd	Falls Church	VA	22044
+Target	6600 Richmond Highway	Alexandria	VA	22306
+Target	2460 Prince William Pkwy	Woodbridge	VA	22192
+Target	13047 Fair Lakes Shopping Center	Fairfax	VA	22033
+Target	3101 Jefferson Davis Hwy	Alexandria	VA	22305
+Target	4310 Fortuna Center Plz	Dumfries	VA	22025
+Target	14391 Chantilly Crossing Ln	Chantilly	VA	20151
+Target	12197 Sunset Hills Rd	Reston	VA	20190
+Target	3100 14th Street NW	Washington	DC	20010
+Target	9900 Sowder Village Sq	Manassas	VA	20109
+Target	3101 Donnell Dr	District Heights	MD	20747
+Target	46201 Potomac Run Plz	Sterling	VA	20164
+Target	45130 Columbia Pl	Sterling	VA	20166
+Walmart	5885 Kingstowne Blvd	Alexandria	VA	22315
+Walmart	6000 Burke Commons Rd	Burke	VA	22015
+Walmart	6303 Richmond Hwy	Alexandria	VA	22306
+Walmart	7910 Richmond Hwy	Alexandria	VA	22306
+Walmart	11181 Lee Hwy	Fairfax	VA	22030
+Walmart	14000 Worth Ave	Woodbridge	VA	22192

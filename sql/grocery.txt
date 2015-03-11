@@ -1,0 +1,61 @@
+Harris Teeter	6351 Columbia Pike	Falls Church	VA	22041
+Harris Teeter	4641 Duke St	Alexandria	VA	22304
+Harris Teeter	4250 Campbell Ave	Arlington	VA	22206
+Harris Teeter	600 North Glebe Rd	Arlington	VA	22203
+Harris Teeter	2425 N. Harrison St	Arlington	VA	22207
+Harris Teeter	12745 Galveston Ct	Manassas	VA	20112
+Harris Teeter	3905 Fair Ridge Dr	Fairfax	VA	22033
+Harris Teeter	735 N. Saint Asaph St	Alexandria	VA	22314
+Harris Teeter	8200 Crestwood Heights Dr	McLean	VA	22102
+Harris Teeter	3600 S Glebe Rd Suite W100	Arlington	VA	22202
+Harris Teeter	900 Army Navy Dr	Arlington	VA	22202
+Harris Teeter	10060 Market Circle	Manassas	VA	20110
+Harris Teeter	401 M Street SE	Washington	DC	20003
+Harris Teeter	1631 Kalorama Rd NW Suite 100	Washington	DC	20009
+Harris Teeter	11806 Spectrum Court	Reston	VA	20190
+Harris Teeter	12960 Highland Crossing Dr	Herndon	VA	20171
+Harris Teeter	1350 Potomac Ave SE	Washington	DC	20003
+Harris Teeter	1201 1st St NE	Washington	DC	20002
+Harris Teeter	25401 Eastern Marketplace Plaza Suite 150	Chantilly	VA	20152
+Harris Teeter	10438 Bristow Center Dr	Bristow	VA	20136
+Giant	8074 Rolling Road	Springfield	VA	22153
+Giant	7558 Telegraph Road	Alexandria	VA	22310
+Giant	6426 Springfield Plz.	Springfield	VA	22150
+Giant	5870 Kingstowne Blvd.	Alexandria	VA	22315
+Giant	8320 Old Keene Mill Rd.	Springfield	VA	22152
+Giant	7501 Huntsman Blvd.	Springfield	VA	22153
+Giant	8941 Ox Rd.	Lorton	VA	22079
+Giant	6980 Braddock Road	Annandale	VA	22003
+Giant	5730 Edsall Rd.	Alexandria	VA	22304
+Giant	6800 Richmond Hwy.	Alexandria	VA	22306
+Giant	9550 Burke Rd.	Burke	VA	22015
+Giant	7137 Columbia Pike	Annandale	VA	22003
+Giant	6011 Burke Ctr Parkway	Burke	VA	22015
+Giant	3131 Duke Street	Alexandria	VA	22314
+Giant	12445 Hedges Run Dr.	Lake Ridge	VA	22192
+Giant	3480 S. Jefferson St.	Falls Church	VA	22041
+Giant	7235 Arlington Blvd.	Falls Church	VA	22042
+Giant	425 E. Monroe Ave.	Alexandria	VA	22301
+Giant	10653 Braddock Rd.	Fairfax	VA	22032
+Giant	2901-11 S. Glebe Rd.	Arlington	VA	22206
+Giant	2501 9th Road South	Arlington	VA	22204
+Giant	4309 Dale Blvd.	Dale City	VA	22193
+Giant	5469 Mapledale Plaza	Dale City	VA	22193
+Giant	11200 Fairfax Boulevard	Fairfax	VA	22030
+Giant	2932 Chain Bridge Road	Oakton	VA	22124
+Safeway	2205 Old Bridge Rd.	Woodbridge	VA	22192
+Safeway	4215 Cheshire Station Plaza	Dale City	VA	22193
+Safeway	4240 Merchant Plaza	Woodbridge	VA	22192
+Safeway	7451 Mount Vernon Square	Alexandria	VA	22306
+Safeway	9596 Old Keene Mill Rd.	Burke	VA	22015
+Safeway	8646 Richmond Hwy	Alexandria	VA	22309
+Safeway	5727 Burke Centre Pkwy.	Burke	VA	22015
+Safeway	5980 Kingstowne Towne Ctr.	Alexandria	VA	22315
+Safeway	9525 Braddock Rd.	Fairfax	VA	22032
+Safeway	6130 Rose Hill Dr.	Alexandria	VA	22310
+Safeway	7900 Ft Hunt Rd.	Alexandria	VA	22308
+Safeway	7414 Little River Turnpike	Annandale	VA	22003
+Safeway	299 S Van Dorn St.	Alexandria	VA	22304
+Safeway	1624 Belle View	Alexandria	VA	22307
+Safeway	10350 Willard Way	Fairfax	VA	22030
+Safeway	3043 Nutley St.	Fairfax	VA	22031
