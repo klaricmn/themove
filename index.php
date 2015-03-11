@@ -35,38 +35,40 @@
 
 var projection = ol.proj.get('EPSG:3857');
 
+var hostname = '<?= $_SERVER['SERVER_NAME'] ?>';
+
    var vector = new ol.layer.Vector({
      source: new ol.source.KML({
        projection: projection,
-	   url: 'http://www.klaric.com/themove/kml/house.php?epsg=3857&'
+	   url: 'http://' + hostname + '/themove/kml/house.php?epsg=3857&'
 	   })
 	 });
 
    var vectorSchool = new ol.layer.Vector({
      source: new ol.source.KML({
        projection: projection,
-	   url: 'http://www.klaric.com/themove/kml/poi.php?type=school&epsg=3857&'
+	   url: 'http://' + hostname + '/themove/kml/poi.php?type=school&epsg=3857&'
 	   })
 	 });
 
    var vectorGrocery = new ol.layer.Vector({
      source: new ol.source.KML({
        projection: projection,
-	   url: 'http://www.klaric.com/themove/kml/poi.php?type=grocery&epsg=3857&'
+	   url: 'http://' + hostname + '/themove/kml/poi.php?type=grocery&epsg=3857&'
 	   })
 	 });
 
    var vectorTarget = new ol.layer.Vector({
      source: new ol.source.KML({
        projection: projection,
-	   url: 'http://www.klaric.com/themove/kml/poi.php?type=target&epsg=3857&'
+	   url: 'http://' + hostname + '/themove/kml/poi.php?type=target&epsg=3857&'
 	   })
 	 });
 
    var vectorWalmart = new ol.layer.Vector({
      source: new ol.source.KML({
        projection: projection,
-	   url: 'http://www.klaric.com/themove/kml/poi.php?type=walmart&epsg=3857&'
+	   url: 'http://' + hostname + '/themove/kml/poi.php?type=walmart&epsg=3857&'
 	   })
 	 });
 
