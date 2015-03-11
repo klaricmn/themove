@@ -84,7 +84,7 @@ var hostname = '<?= $_SERVER['SERVER_NAME'] ?>';
 		  vectorWalmart
 		  ],
 	 view: new ol.View({
-	   center: ol.proj.transform([ -77.1794,  38.751998 ], 'EPSG:4326', 'EPSG:3857'),
+	   center: ol.proj.transform([ -77.197026,  38.752845 ], 'EPSG:4326', 'EPSG:3857'),
 	       zoom: 11
 	       })
 	 });
@@ -125,7 +125,7 @@ map.on('pointermove', function(evt) {
 <?php
 $dbconn = pg_connect("dbname=themove user=themove") or die('Could not connect: ' . pg_last_error());
 
-$query = "SELECT *, round(0.000621371*ST_Distance(coords::geography, (ST_SetSRID(ST_MakePoint(-77.1794,  38.751998), 4326)::geography))::numeric,1) AS distance FROM features.house";
+$query = "SELECT *, round(0.000621371*ST_Distance(coords::geography, (ST_SetSRID(ST_MakePoint(-77.197026,  38.752845), 4326)::geography))::numeric,1) AS distance FROM features.house";
 $result = pg_query($query) or die('Query failed: ' . pg_last_error());
 
 $nonprinting = array("id", "coords", "notes", "url");
